@@ -1,0 +1,6 @@
+{
+  "name": "Chess Master",
+  "description": "Offline chess game featuring single-device two-player pass & play, AI difficulty settings from beginner to grandmaster, move highlights, undo, hints, and move history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
