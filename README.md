@@ -48,7 +48,7 @@ If an APK is available in the GitHub Releases section:
 8. if it asks for the permission give permission to allow from this source.
 9. and enjoy!
 
-**APK Download:** Chess Master.apk
+**APK Download:** https://github.com/johnson-kumar/chess-game-with-ai/blob/main/Chess%20Master.apk
 
 If no APK is available, follow Method 2.
 
