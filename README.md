@@ -39,13 +39,14 @@ Some of its capabilities include:
 If an APK is available in the GitHub Releases section:
 
 1. Open this repository on your Android phone.
-2. Navigate to **Releases**.
-3. Open the latest release.
-4. Download the `.apk` file.
-5. Open the downloaded APK.
-6. If Android asks for permission to install apps from that source, allow it only if you trust the file.
-7. Tap **Install**.
-8. Open the chess game and enjoy!
+2. Navigate to "chess master apk".
+3. click on "chess master apk" file.
+4. it shows something like can't show large file somthing like that.
+5. ignore and click on the tree dont in right side.
+6. and download drop down icon apers click on that.
+7. after file download go to download section in your mobile browser and click.
+8. if it asks for the permission give permission to allow from this source.
+9. and enjoy!
 
 **APK Download:** [Add your GitHub Releases link here]
 
